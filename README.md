@@ -1,15 +1,8 @@
-# Voting
-
-Easily add your candidates and create your poll
-
-![main page image](https://i.postimg.cc/qMPQB2MK/Screenshot-2024-04-21-211241.png)
-![Vote page image](https://i.postimg.cc/zvz5g9wx/Voting.png)
-![admin page image](https://i.postimg.cc/k4j3LTCK/Screenshot-2024-04-21-211500.png)
-
+# PollCraft
 ## Clone Repository
 
 git clone https://github.com/rakmans/Voting-Dapp.git
-cd Voting-Dapp
+cd Pollcraft
 
 ## Requirements
 
