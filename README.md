@@ -5,7 +5,8 @@ PollCraft is your go-to decentralized polling platform, designed to make polling
 ## Features
 
 - **Decentralized**: Utilizing blockchain technology for transparent and tamper-proof polling.
-- **MetaMask Integration**: Seamless login process using MetaMask for added security.
+- **Dark and Light Mode**: Customize your viewing experience.
+- **Wallet Integration**: Support for various wallets, including MetaMask, for added convenience.
 - **Create and Join Polls**: Flexible options to either create a new poll or join existing ones.
 - **Unique Poll Identifiers**: Each poll is uniquely identified by a hash, ensuring privacy and security.
 - **Admin Controls**: Admins can add options to polls and set time limits for voting.
@@ -33,13 +34,13 @@ npm install
 npm run dev
 ```
 ## How to Use
-
-1. Install MetaMask: Add the MetaMask extension to your browser and log in.
-2. Change Network: Make sure you are on Sepolia testnet and have Sepolia ETH in your account
-3. Access PollCraft: Visit the PollCraft application.
-4. Choose Action: Join an existing poll using its unique hash or create a new one.
-5. Admin Actions: If you're an admin, wait for the poll hash to generate, then add options and set a time limit.
-6. Share Poll: Share the poll hash with others to allow participation.
-7. Vote: Once the poll is active, users can vote.
-8. View Results: After the time limit expires, view poll results.
+1. Run Dapp: Run the Dapp using the terminal.
+2. Access PollCraft: Visit the PollCraft application.
+3. Customize Mode: Toggle between dark and light modes for comfortable viewing.
+4. Wallet Integration: Use any wallet of your choice, including MetaMask, Works on testnets like Sepolia.
+5. Choose Action: Join an existing poll using its unique hash or create a new one.
+6. Admin Actions: If you're an admin, wait for the poll hash to generate, then add options and set a time limit.
+7. Share Poll: Share the poll hash with others to allow participation.
+8. Vote: Once the poll is active, users can vote.
+9. View Results: After the time limit expires,the admin will broadcast the results, view poll results.
 
