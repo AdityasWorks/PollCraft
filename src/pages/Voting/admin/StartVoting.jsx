@@ -127,7 +127,7 @@ const StartVoting = () => {
           <TextField
             id="endTime"
             name="endTime"
-            label="Deadline in Days"
+            label="Deadline in Minutes"
             value={Formik.values.endTime}
             onChange={Formik.handleChange}
             onBlur={Formik.handleBlur}
