@@ -1,4 +1,4 @@
-# PollCraft
+![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/83262680-6eea-45bf-9a71-5c0b5af821a8)![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/445dcf88-4669-4ce0-93eb-3c573f6f37f8)![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/c1901a19-9461-4ef4-84e6-2309e810714b)# PollCraft
 
 PollCraft is your go-to decentralized polling platform, designed to make polling easy and secure. Built on the robust technologies of Solidity, Carco Vite, Material UI, React, and Node.js, PollCraft ensures a seamless and reliable experience for both administrators and participants.
 
@@ -44,3 +44,8 @@ npm run dev
 8. Vote: Once the poll is active, users can vote.
 9. View Results: After the time limit expires,the admin will broadcast the results, view poll results.
 
+## Screenshots
+
+![Projectimg1](https://github.com/AdityasWorks/Pollcraft/blob/master/Screenshots/Screenshot%202024-04-30%20063520.png?raw=true)
+![Projectimg2](https://github.com/AdityasWorks/Pollcraft/blob/master/Screenshots/Screenshot%202024-04-30%20063533.png?raw=true)
+![Projectimg3](https://github.com/AdityasWorks/Pollcraft/blob/master/Screenshots/Screenshot%202024-04-30%20063929.png?raw=true)
