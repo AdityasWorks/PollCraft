@@ -1,4 +1,4 @@
-![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/83262680-6eea-45bf-9a71-5c0b5af821a8)![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/445dcf88-4669-4ce0-93eb-3c573f6f37f8)![image](https://github.com/AdityasWorks/Pollcraft/assets/111555593/c1901a19-9461-4ef4-84e6-2309e810714b)# PollCraft
+# PollCraft
 
 PollCraft is your go-to decentralized polling platform, designed to make polling easy and secure. Built on the robust technologies of Solidity, Carco Vite, Material UI, React, and Node.js, PollCraft ensures a seamless and reliable experience for both administrators and participants.
 
