@@ -18,7 +18,7 @@ const NotVotingResault = () => {
     >
       <UilSmileBeam color="#f84d53" size="125" style={{ marginTop: 25 }} />
       <Typography variant="h3" mt={2} color="secondary">
-        Polling resaults have not been announced yet
+        Polling results have not been announced yet
       </Typography>
       <Typography variant="h6" mt={2}>
         please check back later{" "}

@@ -28,8 +28,8 @@ const EndedVoting = () => {
                 Poll has ended
             </Typography>
             <Typography variant='h6' mt={2} sx={{padding:'20px'}}>
-                {/* {data.voteWinner}  */}
-                Pizza was winner of the Poll.
+                {data.voteWinner}
+                 Binladen was winner of the Poll.
             </Typography>
         </Card>
     );
