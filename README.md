@@ -2,6 +2,9 @@
 
 PollCraft is your go-to decentralized polling platform, designed to make polling easy and secure. Built on the robust technologies of Solidity, Carco Vite, Material UI, React, and Node.js, PollCraft ensures a seamless and reliable experience for both administrators and participants.
 
+## Deployment
+The application is deployed on **Vercel**. You can access the live version here: [Live Demo](http://poll-craft.vercel.app).
+
 ## Features
 
 - **Decentralized**: Utilizing blockchain technology for transparent and tamper-proof polling.
